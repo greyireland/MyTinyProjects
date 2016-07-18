@@ -1,0 +1,8 @@
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\bin\Debug\Test2.exe.config
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\obj\Debug\Test2.MyNotepad.resources
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\obj\Debug\Test2.Properties.Resources.resources
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\bin\Debug\Test2.exe
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\bin\Debug\Test2.pdb
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\obj\Debug\Test2.exe
+E:\VS网站项目\我的资源管理器\我的资源管理器\MyFileManeger\Test2\obj\Debug\Test2.pdb
